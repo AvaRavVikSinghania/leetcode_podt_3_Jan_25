@@ -1,4 +1,5 @@
 // 0101110
+//In previous problem we are working in O(n2) solution So we need to make it better
 // If look carefully then what we are doing just adding the ball to its right and left 
 // So we take prefix something that like thing then it would be better
 //0101110
